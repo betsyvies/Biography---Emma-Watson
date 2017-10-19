@@ -1,1 +1,1 @@
-alert("Estas entrando a la Biografia de Emma Watson");
+alert("Biografia de Emma Watson");
